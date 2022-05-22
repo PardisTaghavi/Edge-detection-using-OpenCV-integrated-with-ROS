@@ -1,6 +1,4 @@
 EdgeDetection
-Owner
-me
 Modified Mar 29, 2022
 Created Mar 29, 2022 
 
